@@ -1,7 +1,7 @@
-AI-Powered SAP Data Quality Checker
+SAP Data Quality Checker
 
 Overview:
-This project is a low-code AI-assisted tool built using GitHub Copilot, designed to:
+This project is a tool built and designed to:
 •	Automate data validation (nulls, duplicates, invalid formats) on SAP datasets
 •	Display results on a Streamlit dashboard for easy visualization
 

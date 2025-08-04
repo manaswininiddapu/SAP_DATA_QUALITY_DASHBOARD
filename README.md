@@ -7,7 +7,7 @@ This project is a tool built and designed to:
 
 Goal: Speed up SAP data quality checks and reduce manual errors
 Domain: SAP Data & Analytics
-Tech Stack: Python, Pandas, Streamlit, GitHub Copilot
+Tech Stack: Python, Pandas, Streamlit
 
 Execution:
 At first, run the requirements.txt file to install all the python libraries using: 
